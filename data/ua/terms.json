@@ -118,7 +118,7 @@
 	"AboutInvdividuals" : "Команда KC3改",
 	"AboutPartners" : "Партнери",
 	"AboutOtherCredits" : "Інші дані",
-	"AboutDonators" : "Жертводавці",
+	"AboutDonators" : "Пожертвувачі",
 	"AboutHallOfFame" : "Зал слави",
 	
 	"AboutDevelopers" : "Розробники",
@@ -158,7 +158,7 @@
 	"AboutPartnerZHKcWikiName" : "ZH KCWiki",
 	"AboutPartnerZHKcWikiDesc" : "За переклад квестів та субтитрів на спрощену китайську",
 	
-	"AboutPartnerPoiStatsName" : "Poi-Statistics by KCWiki & Poi",
+	"AboutPartnerPoiStatsName" : "Poi-статистика від KCWiki і Poi",
 	"AboutPartnerPoiStatsDesc" : "Інтеграція подання звітів даних API",
 
 	"AboutSourceGakadaVoices": "<strong>gakada</strong> за <a href=\"https://github.com/KC3Kai/KC3Kai/issues/1180\" target=\"_blank\">прорив</a> в декодуванні голосу",
@@ -423,8 +423,8 @@
 	"ShipArmor"   : "Броня: ",
 	"ShipEvasion" : "Ухил",
 	"ShipAsw"     : "ПЧО",
-	"ShipLos"     : "LoS",
-	"ShipLuck"    : "Везуч.",
+	"ShipLos"     : "Видим.",
+	"ShipLuck"    : "Удача",
 	"ShipCarry"   : "Слоти",
 	"ShipSpeed"   : "Швидк.",
 	"ShipLength"  : "Довж.",
@@ -468,7 +468,7 @@
 	"PanelEmptySupply" : "Не забезпечено",
 	"PanelGreatMorale" : "Чудова мораль",
 	"PanelGoodMorale" : "Хороша мораль",
-	"PanelRecoveredMorale" : "Відновлено",
+	"PanelRecoveredMorale" : "Відновлена",
 	"PanelSupportPower" : "Сили прикриття експедиції підтримки",
 	"PanelPlanesFighter" : "Літаки в повітряному бою",
 	"PanelPlanesBomber" : "Літаки в бомбардуванні",
@@ -486,17 +486,17 @@
 	"MissionActivity3" : "Великий успіх",
 	
 	"CombinedFleet" : "Об'єднаний флот",
-	"CombinedCarrier" : "авіаносна ОГ",
-	"CombinedSurface" : "Ударна ОГ",
-	"CombinedTransport" : "Транспорт",
+	"CombinedCarrier" : "Авіаносний ОФ",
+	"CombinedSurface" : "Ударна ОФ",
+	"CombinedTransport" : "Транспорт-ОФ",
 	"CombinedNone" : "Звичайний флот",
 
 	"LandBaseActionWaiting" : "Очікування",
-	"LandBaseActionSortie" : "Вилазка",
+	"LandBaseActionSortie" : "Виліт",
 	"LandBaseActionDefend" : "Поразка",
 	"LandBaseActionRetreat" : "Відступ",
 	"LandBaseActionRest" : "Відпочинок",
-	"LandBaseTipFighterPower" : "Повітряні сили",
+	"LandBaseTipFighterPower" : "Повітряна міць",
 	"LandBaseTipInterceptFighters" : "Перехоплення винищувачів",
 	"LandBaseTipInterceptBombers" : "Перехоплення бомбардувальників",
 
@@ -517,10 +517,10 @@
 	"NatsuiroBasic" : "База",
 	"NatsuiroBattle" : "Бій",
 	"NatsuiroExped" : "Експед.",
-	"NatsuiroActivity" : "Дії",
+	"NatsuiroActivity" : "Актив.",
 	
 	"ExpedNumLabel" : "Експедиція #",
-	"ExpedEstmTime" : "Очікуваний час",
+	"ExpedEstmTime" : "Час до повернення",
 	"ExpedIncome" : "Чистий прибуток",
 	"ExpedFSLv" : "Флагман: рівень ",
 	"ExpedFleet" : "Флот: ",
@@ -532,7 +532,7 @@
 	
 	"CraftEquipNoteFirst" : "Це твій <strong>перший</strong>!",
 	"CraftEquipNoteExists" : "Тепер у тебе є <strong>{0}</strong> одиниць цієї штуки!",
-	"CraftEquipNotePenguin" : "Крафт не вдався",
+	"CraftEquipNotePenguin" : "Провал",
 	
 	"ModernizationResultLeft" : "{0} зал.",
 	"ModernizationResultNote" : "Значення характеристик зазначені без спорядження",
@@ -542,7 +542,7 @@
 	"FitWeight_-2": "Середній штраф до точності",
 	"FitWeight_-1": "Маленький штраф до точності",
 	"FitWeight_0": "Нейтрально",
-	"FitWeight_1": "аленький бонус до точності",
+	"FitWeight_1": "Маленький бонус до точності",
 	"FitWeight_2": "Середній бонус до точності",
 	"FitWeight_3": "Великий бонус до точності",
 
